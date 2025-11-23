@@ -1,0 +1,304 @@
+[2025-11-23 15:32:22] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908342
+Time Difference: 0
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:32:22] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908342
+Time Difference: 0
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:32:40] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908360
+Time Difference: 18
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:32:40] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908360
+Time Difference: 18
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:32:57] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908377
+Time Difference: 35
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:32:58] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908378
+Time Difference: 36
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:33:13] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908393
+Time Difference: 51
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:33:13] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908393
+Time Difference: 51
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:33:29] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908409
+Time Difference: 67
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:33:29] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908409
+Time Difference: 67
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:33:38] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908418
+Time Difference: 76
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:34:11] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908451
+Time Difference: 109
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:34:11] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908451
+Time Difference: 109
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:36:08] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908568
+Time Difference: 226
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 15:36:08] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxLCJjcmVhdGVkX2F0IjoxNzYzOTA4MzQyfQ==
+Decoded: {"user_id":1,"created_at":1763908342}
+Payload: Array
+(
+    [user_id] => 1
+    [created_at] => 1763908342
+)
+
+User ID: 1
+Created At: 1763908342
+Current Time: 1763908568
+Time Difference: 226
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 16:31:04] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxMCwiY3JlYXRlZF9hdCI6MTc2MzkxMTg2NH0=
+Decoded: {"user_id":10,"created_at":1763911864}
+Payload: Array
+(
+    [user_id] => 10
+    [created_at] => 1763911864
+)
+
+User ID: 10
+Created At: 1763911864
+Current Time: 1763911864
+Time Difference: 0
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 16:31:04] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxMCwiY3JlYXRlZF9hdCI6MTc2MzkxMTg2NH0=
+Decoded: {"user_id":10,"created_at":1763911864}
+Payload: Array
+(
+    [user_id] => 10
+    [created_at] => 1763911864
+)
+
+User ID: 10
+Created At: 1763911864
+Current Time: 1763911864
+Time Difference: 0
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 16:33:19] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxMCwiY3JlYXRlZF9hdCI6MTc2MzkxMTk5OH0=
+Decoded: {"user_id":10,"created_at":1763911998}
+Payload: Array
+(
+    [user_id] => 10
+    [created_at] => 1763911998
+)
+
+User ID: 10
+Created At: 1763911998
+Current Time: 1763911999
+Time Difference: 1
+SUCCESS: User exists, token is valid
+
+---
+[2025-11-23 16:33:19] === TOKEN VALIDATION START ===
+Token: eyJ1c2VyX2lkIjoxMCwiY3JlYXRlZF9hdCI6MTc2MzkxMTk5OH0=
+Decoded: {"user_id":10,"created_at":1763911998}
+Payload: Array
+(
+    [user_id] => 10
+    [created_at] => 1763911998
+)
+
+User ID: 10
+Created At: 1763911998
+Current Time: 1763911999
+Time Difference: 1
+SUCCESS: User exists, token is valid
+
+---
